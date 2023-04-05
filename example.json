@@ -1,0 +1,38 @@
+{
+  "dnsServer": [
+    {
+      "name": "Google DNS",
+      "host": "8.8.8.8"
+    },
+    {
+      "name": "Cloudflare DNS",
+      "host": "1.1.1.1"
+    }
+  ],
+  "websites": [
+    {
+      "name": "Google",
+      "host": "google.com"
+    },
+    {
+      "name": "Stack Overflow",
+      "host": "stackoverflow.com"
+    },
+    {
+      "name": "Steam",
+      "host": "store.steampowered.com"
+    },
+    {
+      "name": "Netflix",
+      "host": "netflix.com"
+    },
+    {
+      "name": "Facebook",
+      "host": "facebook.com"
+    },
+    {
+      "name": "Twitter",
+      "host": "twitter.com"
+    }
+  ]
+}
